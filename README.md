@@ -6,8 +6,13 @@ Idk, I just wanted a cool robot arm that can move by itself and pick things up.
 
 ### Overview
 
-<img src="https://raw.githubusercontent.com/dinotnt-lab/robot-arm/refs/heads/main/images/PXL_20261001_173940025.jpg" width="300">
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/dinotnt-lab/robot-arm/refs/heads/main/images/PXL_20261001_173940025.jpg" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/dinotnt-lab/robot-arm/refs/heads/main/images/PXL_20261001_173958667.jpg" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/dinotnt-lab/robot-arm/refs/heads/main/images/PXL_20261001_174013657.jpg" width="300"></td>
+  </tr>
+</table>
 3-arm robot arm (2 in image; missing is one with the grabber)
 
 4 × 28BYJ-48 stepper motors
